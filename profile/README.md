@@ -52,11 +52,11 @@ SparkEmploy is a web-based recruitment system designed to automate and simplify 
 ## 🧭 Project Milestones
 | Phase | Description | Deliverables | Due |
 |-------|--------------|--------------|-----|
-| Phase 1 | Foundation | Wireframes, Requirements | Oct 2, 2025 |
-| Phase 2 | UI/UX Design | Prototypes | Oct 9, 2025 |
-| Phase 3 | Development | Core modules | Oct 17, 2025 |
-| Phase 4 | Testing | QA Report | Oct 20, 2025 |
-| Phase 5 | Launch | Beta + Final delivery | Oct 26, 2025 |
+| Phase 1 | Foundation | Wireframes, Requirements | Oct 17, 2025 |
+| Phase 2 | UI/UX Design | Prototypes | Oct 20, 2025 |
+| Phase 3 | Development | Core modules | Oct 24, 2025 |
+| Phase 4 | Testing | QA Report | Nov 8, 2025 |
+| Phase 5 | Launch | Beta + Final delivery | Nov 11, 2025 |
 
 
 ---
@@ -78,4 +78,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-> _"where talent spark meets real opportunity"_
+> _"Connecting talent to opportunity — the smarter way."_
